@@ -7,7 +7,7 @@ import java.util.Calendar;
 
 public class Main {
 
-    private static final String URL = "jdbc:mysql://localhost:3305/jdbc.carsshop?useUnicode=true&serverTimezone=UTC&";
+    private static final String URL = "jdbc:mysql://localhost:3305/carsshop?useUnicode=true&serverTimezone=UTC&";
     private static final String LOGIN = "root";
     private static final String PASSWORD = "admin";
 

@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class Main {
 
-    private static final String URL = "jdbc:mysql://localhost:3305/jdbc.carsshop.testbase?useUnicode=true&serverTimezone=UTC&";
+    private static final String URL = "jdbc:mysql://localhost:3305/testbase?useUnicode=true&serverTimezone=UTC&";
     private static final String LOGIN = "root";
     private static final String PASSWORD = "admin";
 
