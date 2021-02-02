@@ -34,6 +34,7 @@ public class ClientJDBCDao implements ClientDAO {
     }
 
     private Connection getConnection() {
+
         Connection connection = null;
 
         final String URL = "jdbc:mysql://localhost:3305/carsshop?useUnicode=true&serverTimezone=UTC&";
