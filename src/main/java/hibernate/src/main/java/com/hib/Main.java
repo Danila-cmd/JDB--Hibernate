@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Animal animal = new Animal();
 
+        animal.setId(1);
         animal.setAge(10);
         animal.setName("Mursik");
         animal.setTail(true);
